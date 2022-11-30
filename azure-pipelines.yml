@@ -1,0 +1,2 @@
+gcc demo.c
+gcc make -o demo.c
